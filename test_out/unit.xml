@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <testsuites>
-  <testsuite name="PhantomJS 1.9.7 (Mac OS X)" package="unit" timestamp="2014-10-17T21:30:28" id="0" hostname="pc22.home" tests="5" errors="0" failures="0" time="0.014">
+  <testsuite name="PhantomJS 1.9.7 (Mac OS X)" package="unit" timestamp="2014-10-17T22:15:55" id="0" hostname="pc22.home" tests="5" errors="0" failures="0" time="0.014">
     <properties>
       <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34"/>
     </properties>
     <testcase name="should replace VERSION" time="0.005" classname="unit PhantomJS 1.9.7 (Mac OS X).myApp_version module interpolate filter"/>
     <testcase name="should print current version" time="0.005" classname="unit PhantomJS 1.9.7 (Mac OS X).myApp_version module app-version directive"/>
-    <testcase name="should return current version" time="0" classname="unit PhantomJS 1.9.7 (Mac OS X).myApp_version module version service"/>
+    <testcase name="should return current version" time="0.001" classname="unit PhantomJS 1.9.7 (Mac OS X).myApp_version module version service"/>
     <testcase name="should ...." time="0.001" classname="unit PhantomJS 1.9.7 (Mac OS X).myApp_view1 module view1 controller"/>
-    <testcase name="should ...." time="0.003" classname="unit PhantomJS 1.9.7 (Mac OS X).myApp_view2 module view2 controller"/>
+    <testcase name="should ...." time="0.002" classname="unit PhantomJS 1.9.7 (Mac OS X).myApp_view2 module view2 controller"/>
     <system-out><![CDATA[
 ]]></system-out>
     <system-err/>
